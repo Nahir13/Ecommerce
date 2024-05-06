@@ -42,59 +42,6 @@
   width:50px;
 }
 }
-#login {
-    margin: 0;
-    padding: 0;
-    background: url(img/FLogin.jpg) no-repeat center top;
-    background-size: cover;
-    background-attachment: fixed;
-    font-family: sans-serif;
-    height: 100vh;
-  }
-  .navbar{
-    height: 60px;
-    background-color:black;
-    display: flex;
-    justify-content: space-between;
-    background-attachment: fixed;
-  }
-  .nav{
-    background-color:black;
-    height: 60px;
-    width: 95px;
-    border-style: none;
-    color: rgba(255, 255, 255, 0.87);
-  }
-  #logo{
-    background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/Logo.jpg?raw=true) ;
-    background-size: cover;
-    height: 60px;
-    width:180px;
-  }
-  #but{
-    background-color: black;
-    height: 30px;
-    width: 95px;
-    border-style: none;
-    
-    color: rgba(255, 255, 255, 0.87);
-  }
-  .nav:hover{
-    background-color:rgb(70, 69, 69);
-    color: rgb(255, 255, 255);
-  }
-  #but:hover{
-    background-color:rgb(70, 69, 69);
-    color: rgb(255, 255, 255);
-  }
-  @media (width <= 800px) {
-  #logo{
-    background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/Logo%20chiquito.jpg?raw=true) ;
-    background-size: cover;
-    height: 60px;
-    width:50px;
-  }
-  }
   #login {
     margin: 0;
     padding: 0;
@@ -181,11 +128,7 @@
   }
   
   .login-box a:hover {
-<<<<<<< HEAD
     color:#fff;
-=======
-    color: #fff;
->>>>>>> 01fba5a7d00af47bf981a14fa0f3582d93fa9315
 }
 #aboutUs{ 
   background-image: url(https://live.staticflickr.com/620/21200032406_a9f5a7f198_b.jpg);
@@ -199,11 +142,7 @@ P, h2{
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
  .frontview{
-<<<<<<< HEAD
    width: 100%; background-color: #ffffff;
-=======
-   width: 100%; background-color: #ffffff; 
->>>>>>> 01fba5a7d00af47bf981a14fa0f3582d93fa9315
    z-index: 100%;
    margin-right: 0;      
    margin-top : 0;
@@ -211,11 +150,6 @@ P, h2{
    margin-left: 0;
    border: 2px solid #ffffff;
    border-radius: 5px;
-<<<<<<< HEAD
-=======
-  
-  
->>>>>>> 01fba5a7d00af47bf981a14fa0f3582d93fa9315
   }
   .title{
     font-size: 50px;
@@ -224,28 +158,12 @@ P, h2{
   }
 
   .text{
-<<<<<<< HEAD
    width: 98%; 
    background-color: #ffffff;
    height: auto;
    z-index: 100%;
    margin: 20px;
    border: 2px solid #ffffff;
-   border-radius: 5px;
-=======
-   width: 100%; background-color: #ffffff; 
-   height: 40%;
-   z-index: 100%;
-   margin-right: 0;      
-   margin-top : 0;
-   margin-bottom: 5%; 
-   margin-left: 0;
-   border: 2px solid #ffffff;
-   border-radius: 5px;
-
-  
-  
->>>>>>> 01fba5a7d00af47bf981a14fa0f3582d93fa9315
   }
 
   .quienesomos1{
@@ -253,40 +171,26 @@ font-size: 40px ;
 
   }
   .quienesomos{
-font-size: 20px ;
-<<<<<<< HEAD
-text-align: start;
+  font-size: 20px ;
+  text-align: start;
 
    }   
   .unidos{
     width: 100%;
     height: 20%;
-=======
-
-   }   
-  .unidos{
-     width: 100%;
-     
-     
-  height: 20%;
->>>>>>> 01fba5a7d00af47bf981a14fa0f3582d93fa9315
   }
   .bannerunidos1{
     font-size: 45px;
     color: #ffffff;
     z-index: 100%;
-<<<<<<< HEAD
-    position: absolute; top: 280px; left: 7%;
-=======
-    position: absolute; top: 270px; left: 7%;
->>>>>>> 01fba5a7d00af47bf981a14fa0f3582d93fa9315
+    position: absolute; top: 320px; left: 7%;
 
   }
   .bannerunidos{
     font-size: 40px;
     color: #ffffff;
     z-index: 100%;
-    position: absolute; top: 760px; left: 7%;
+    position:absolute; top:760px; left: 7%;
 
   }
   .banner{
@@ -294,8 +198,6 @@ text-align: start;
       color: #ffffff;
       z-index: 100%   ;
       position: absolute; top: 400px; left: 7%;
-
-<<<<<<< HEAD
   } 
   @media(width <= 1199px){
     .banner{
@@ -328,6 +230,9 @@ text-align: start;
     height: auto;
     margin: 5px;
     padding: auto;
+}
+#BPEspecificos{
+  margin:0%
 }
 hr{
     margin: 10px;
@@ -430,7 +335,7 @@ h3{
 u{
     color: #7AB2B2;
 }
-button{
+.Bproducts{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #3c44a7;
     display: block;
@@ -460,6 +365,3 @@ button:hover{
         height: auto;
     }
 }
-=======
-  } 
->>>>>>> 01fba5a7d00af47bf981a14fa0f3582d93fa9315
