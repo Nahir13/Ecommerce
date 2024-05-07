@@ -1,4 +1,4 @@
-body {
+.login {
   margin: 0;
   padding: 0;
   background: url(https://github.com/Nahir13/Ecommerce/blob/main/img/FLogin.jpg?raw=true);
@@ -352,7 +352,7 @@ h3{
 u{
     color: #7AB2B2;
 }
-button{
+.PButton{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #3c44a7;
     display: block;
