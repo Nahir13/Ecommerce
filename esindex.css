@@ -423,7 +423,7 @@ u{
 }
 
 .imagen_del_auto {
-  background-image: url(img/Autos/honda\ cr\ v\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/honda%20cr%20v%201.jpg?raw=true);
   height: 140px;
   width: 300px;
   background-size: cover;
@@ -435,7 +435,7 @@ u{
 .imagen_del_auto_2 {
   height: 120px;
   width: 200px;
-  background-image: url(img/Autos/civic\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/civic%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 180px;
   transition: 300ms;
@@ -445,7 +445,7 @@ u{
 .imagen_del_auto_3 {
   height: 150px;
   width: 240px;
-  background-image: url(img/Autos/mazda\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/mazda%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 200px;
   transition: 300ms;
@@ -455,7 +455,7 @@ u{
 .imagen_del_auto_4 {
   height: 180px;
   width: 300px;
-  background-image: url(img/Autos/subaro\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/subaro%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 210px;
   transition: 300ms;
@@ -465,7 +465,7 @@ u{
 .imagen_del_auto_5 {
   height: 140px;
   width: 300px;
-  background-image: url(img/Autos/corolla\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/corolla%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 190px;
   transition: 300ms;
@@ -475,7 +475,7 @@ u{
 .imagen_del_auto_6 {
   height: 140px;
   width: 260px;
-  background-image: url(img/Autos/sw4\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/rta%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 190px;
   transition: 300ms;
@@ -485,7 +485,7 @@ u{
 .imagen_del_auto_7 {
   height: 140px;
 width: 260px;
-  background-image: url(img/Autos/etios\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/etios%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 190px;
   transition: 300ms;
@@ -495,7 +495,7 @@ width: 260px;
 .imagen_del_auto_8 {
   height: 140px;
   width: 260px;
-  background-image: url(img/Autos/rta\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/sw4%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 195px;
   transition: 300ms;
@@ -505,7 +505,7 @@ width: 260px;
 .imagen_del_auto_9 {
   height: 140px;
   width: 260px;
-  background-image: url(img/Autos/yaris\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/yaris%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 195px;
   transition: 300ms;
@@ -515,7 +515,7 @@ width: 260px;
 .imagen_del_auto_10 {
   height: 140px;
   width: 260px;
-  background-image: url(img/Autos/hilux\ 1.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/hilux%201.jpg?raw=true);
   background-size: cover;
   margin-bottom: 195px;
   transition: 300ms;
@@ -543,7 +543,7 @@ width: 260px;
   transform: translateY(-50px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/crv\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/crv%202.jpg?raw=true);
   height: 210px;
   width: 190px;
 }
@@ -551,7 +551,7 @@ width: 260px;
   transform: translateY(-50px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/civic\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/civic%202.jpg?raw=true);
   height: 170px;
   width: 290px;
   margin-bottom: 130px;
@@ -560,7 +560,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/marav\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/marav%202.jpg?raw=true);
   height: 220px;
   width: 190px;
   margin-bottom: 220px;
@@ -569,7 +569,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/subaro\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/subaro%202.jpg?raw=true);
   height: 220px;
   width: 190px;
   margin-bottom: 220px;
@@ -578,7 +578,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/corolla\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/corolla%202.jpg?raw=true);
   height: 220px;
   width: 350px;
   margin-bottom: 130px;
@@ -587,7 +587,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/toyota\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/toyota%202.jpg?raw=true);
   height: 150px;
   width: 300px;
   margin-bottom: 140px;
@@ -596,7 +596,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/etios\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/etios%202.jpg?raw=true);
   height: 145px;
   width: 340px;
   margin-bottom: 110px;
@@ -605,7 +605,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/sw4\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/sw4%202.jpg?raw=true);
   height: 160px;
   width: 340px;
   margin-bottom: 120px;
@@ -614,7 +614,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/yaris\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/yaris%202.jpg?raw=true);
   height: 160px;
   width: 340px;
   margin-bottom: 120px;
@@ -623,7 +623,7 @@ width: 260px;
   transform: translateY(-40px);
   transition: 300ms;
   filter: none;
-  background-image: url(img/Autos/hilux\ 2.jpg);
+  background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/hilux%202.jpg?raw=true);
   height: 155px;
   width: 340px;
   margin-bottom: 130px;
