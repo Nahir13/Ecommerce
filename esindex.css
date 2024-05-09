@@ -1,4 +1,4 @@
-body {
+ #Accesorios{
   margin: 0;
   padding: 0;
   background: url(https://github.com/Nahir13/Ecommerce/blob/main/img/FLogin.jpg?raw=true);
@@ -41,7 +41,6 @@ body {
 .nav:hover{
   background-color:rgb(70, 69, 69);
   color: rgb(255, 255, 255);
-  width: 130px;
 }
 #but:hover{
   background-color:rgb(70, 69, 69);
@@ -352,7 +351,7 @@ h3{
 u{
     color: #7AB2B2;
 }
-button{
+.PButton{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #3c44a7;
     display: block;
@@ -366,7 +365,7 @@ button{
     margin-left: 50px;
     margin-bottom: 5px;
 }
-button:hover{
+.PButton:hover{
     background-color: #7AB2B2;
 }
 
@@ -392,10 +391,10 @@ button:hover{
 .cuerpo {
   background-image: linear-gradient(to right, #000, #333333, #ffffff);
   height:100vh;
-  display: flex;
   flex-wrap: wrap;
   justify-content:center;
   align-items: center; 
+  margin: 0;
 }
 .conteiner {
   margin-top: 150px;
