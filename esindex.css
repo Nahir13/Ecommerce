@@ -7,7 +7,7 @@
   font-family: sans-serif;
   height: 100vh;
 }
-.navbar{
+.nav-zamazor{
   height: 60px;
   background-color:black;
   display: flex;
@@ -15,7 +15,7 @@
   background-attachment: fixed;
   margin: 1px;
 }
-.nav{
+.nav-button{
   justify-content: space-between;
   background-color:black;
   height: 60px;
