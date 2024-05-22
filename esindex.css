@@ -7,6 +7,12 @@
   font-family: sans-serif;
   height: 100vh;
 }
+  .productos2{
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+      margin: 10px;
+  }
 .fotoo{
       background-image: url(https://4.bp.blogspot.com/-aTO6McxCjNg/Tm0L0zxGA0I/AAAAAAAAAHI/wn1kpBr44cg/ELCONSTRUCTOR-Focos%252520H4%252520Tipo%252520Xenon%252520Autos%252520Y%252520Camionetas.jpg);
       border: 1px solid #acdddd;
