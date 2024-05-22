@@ -7,6 +7,64 @@
   font-family: sans-serif;
   height: 100vh;
 }
+    .displaygrid{
+        margin-top: 5%;
+       display: grid;
+    grid-template-columns: repeat(4, 25%);
+    /* gap: 5px; */
+    grid-template-rows: repeat(6, 25%);
+    justify-content: start;
+    div {
+        width: 100%;
+        /* overflow: hidden; */
+        filter: brightness(60%);
+
+        img {
+            height: 100%;
+            width: 100%;
+            object-fit: cover;
+            position: relative;
+        }
+        .h2e{
+            position: absolute; top: 440px;
+            font-size: 60px;
+            margin-left: 30px;
+        }
+        .h2b{
+            position: absolute; top: 280px;
+            font-size: 50px;
+            margin-left: 25px;
+            
+        }
+        h2:hover{
+            -webkit-box-shadow: 22px 32px 37px -27px rgba(0,0,0,0.52);
+-moz-box-shadow: 22px 32px 37px -27px rgba(0,0,0,0.52);
+box-shadow: 22px 32px 37px -27px rgba(0,0,0,0.52);
+transform: scale(1.15);
+        }
+    }
+
+    .item-1 {
+        grid-column: 1 / span 3;
+        grid-row: 1 / span 3;
+        
+    }
+    .item-2 {
+        grid-row: 1/ span 2;
+    }
+    .item-3{
+        grid-row: 3/  5; 
+    }
+    .item-4{
+        grid-column: 1/ span 3;
+        
+    }
+    
+    }
+   
+    .grid-card {
+    border: #B2C8BA solid 1px;
+    }
 .nav-zamazor{
   height: 60px;
   background-color:black;
