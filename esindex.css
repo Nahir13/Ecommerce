@@ -7,7 +7,59 @@
   font-family: sans-serif;
   height: 100vh;
 }
-    .displaygrid{
+.fotoo{
+      background-image: url(https://4.bp.blogspot.com/-aTO6McxCjNg/Tm0L0zxGA0I/AAAAAAAAAHI/wn1kpBr44cg/ELCONSTRUCTOR-Focos%252520H4%252520Tipo%252520Xenon%252520Autos%252520Y%252520Camionetas.jpg);
+      border: 1px solid #acdddd;
+      width: 310px;
+      height: 450px;
+      margin: 5px;margin-top: 10px;
+      padding: auto;
+      background-repeat: no-repeat;
+      background-color: white;
+      background-position: center;
+      background-size: 150px;
+      border-radius: 8px;
+  }
+  .fotoo1{
+      background-image: url(https://tse3.mm.bing.net/th?id=OIP.cd8Mm_8H2P-4dxO8RdHILQHaHa&pid=Api&P=0&h=180);
+      background-position: center;
+      background-color: white;
+      background-size: 150px;
+      width: 310px;
+      height: 450px;
+      border: 1px solid #acdddd;
+      margin: 10px;
+      padding: auto;
+      background-repeat: no-repeat;
+      border-radius: 8px;
+  }
+  .fotoo2{
+      background-image: url(https://tse3.mm.bing.net/th?id=OIP.iNtX4zRV8PHqA4HmXMiqcAHaGY&pid=Api&P=0&h=180);
+      background-position: center;
+      width: 310px;
+      height: 450px;
+      border: 1px solid #acdddd;
+      border-radius: 8px;
+      margin: 10px;
+      padding: auto;
+      background-size: 150px;
+      background-repeat: no-repeat;
+      background-color: white;
+  }
+  .fotoo3{
+      background-image: url(https://tse3.mm.bing.net/th?id=OIP.UjudSqDldQRGEz1ZX27lVQHaDy&pid=Api&P=0&h=180);
+      background-position: center;
+      width: 310px;
+      height: 450px;
+      border: 1px solid #acdddd;
+      margin: 10px;
+      padding: auto;
+      background-size: 200px;
+      background-repeat: no-repeat;
+      background-color: white;
+      border-radius: 8px;
+  }
+    .displaygridpp{
         margin-top: 5%;
        display: grid;
     grid-template-columns: repeat(4, 25%);
