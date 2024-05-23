@@ -876,9 +876,11 @@ p {
   margin: 10px;
   border: 2px solid #ffffff;
   border-radius: 5px;
-  display: flex;
+  display: grid;
+  grid-template-columns: 50% 50%;
   height: 600px;
-  gap: 5px;
+  margin: auto;
+  margin-top: 3%;
  }
 .articulo-carrito{ 
    background-color: #ffffff;
@@ -894,6 +896,8 @@ p {
   width: 95%;
   display:grid;
   align-content: baseline;
+  height: 300px;
+  margin: 10px;
 }
 .boton-comprar {
   width: 95%;
