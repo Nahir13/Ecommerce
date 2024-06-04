@@ -18,3 +18,21 @@ function mas(id) {
         document.getElementById("vermas").style.display = "inline";
     }
 }
+
+function validarFormulario(){
+    const email = document.getElementById('email').value
+    const password = document.getElementById('password').value
+  
+  
+    const correctemail = 'zamazor@gmail.com'
+    const correctpassword = '12345'
+  
+    if( email === correctemail && password === correctpassword){
+      console.log('Iniciaste Sesión Correctamente')
+      window.location.href = "paginaprincipal.html"
+    }
+      else{
+        console.log('Contraseña o Email incorrectos')
+        alert('El Usuario o la Contraseña son incorrectos')
+      }
+    }
