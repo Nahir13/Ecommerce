@@ -574,7 +574,7 @@ u {
 }
 .PButton {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  background-color: #3c44a7;
+  background-color: #3498db;
   display: block;
   padding: 10px;
   color: white;
@@ -587,7 +587,7 @@ u {
   margin-bottom: 5px;
 }
 .PButton:hover {
-  background-color: #7ab2b2;
+  background-color: #661c3e;
 }
 
 @media (600px<= width <=1199) {
