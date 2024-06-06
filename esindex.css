@@ -1087,9 +1087,13 @@ ul{
     width: 25%;
     padding: 0 15px;
   }
+  .copyright a{
+    width: 25;
+    padding: 0 15px;
+  }
 }
 .carrito-civic {
-  width:200px;
+  width:220px;
   height: 120px;
   background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/civic%201.jpg?raw=true);
   background-size:cover;
@@ -1111,7 +1115,7 @@ ul{
   }
 }
 .carrito-hilux {
-  width:200px;
+  width:220px;
   height: 100px;
   background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/hilux%201.jpg?raw=true);
   background-size:cover;
@@ -1132,30 +1136,30 @@ ul{
       background-image: url(img/hilux\ 2.jpg);
   }
 }
-.carrito-forester {
-  width:150px;
+.carrito-yaris {
+  width:220px;
   height: 130px;
-  background-image:url(img/subaro\ 1.jpg);
+  background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/yaris%201.jpg?raw=true);
   background-size:cover;
   background-repeat: no-repeat;
   background-position: center;
-  animation-name: forester;
+  animation-name: yaris;
   animation-duration:10s;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-delay:15s;
   border-radius: 5px;
 } 
-@keyframes forester {
+@keyframes yaris {
   from {
-    background-image:url(img/subaro\ 1.jpg);
+    background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/yaris%201.jpg?raw=true);
   }
   to {
-      background-image: url(img/subaro\ 2.jpg);
+      background-image: url(https://github.com/Nahir13/Ecommerce/blob/main/img/yaris%202.jpg?raw=true);
   }
 }
 .carrito-SW4{
-  width:200px;
+  width:220px;
   height: 100px;
   background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/sw4%201.jpg?raw=true);
   background-size:cover;
