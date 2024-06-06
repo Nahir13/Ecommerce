@@ -1088,3 +1088,91 @@ ul{
     padding: 0 15px;
   }
 }
+.carrito-civic {
+  width:200px;
+  height: 120px;
+  background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/civic%201.jpg?raw=true);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation-name: civic;
+  animation-duration:10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-delay:15s;
+  border-radius: 5px;
+} 
+@keyframes civic {
+  from {
+    background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/civic%201.jpg?raw=true);
+  }
+  to {
+      background-image: url(img/civic\ 2.jpg);
+  }
+}
+.carrito-hilux {
+  width:200px;
+  height: 100px;
+  background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/hilux%201.jpg?raw=true);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation-name: hilux;
+  animation-duration:10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-delay:15s;
+  border-radius: 5px;
+} 
+@keyframes hilux {
+  from {
+    background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/hilux%201.jpg?raw=true);
+  }
+  to {
+      background-image: url(img/hilux\ 2.jpg);
+  }
+}
+.carrito-forester {
+  width:150px;
+  height: 130px;
+  background-image:url(img/subaro\ 1.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation-name: forester;
+  animation-duration:10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-delay:15s;
+  border-radius: 5px;
+} 
+@keyframes forester {
+  from {
+    background-image:url(img/subaro\ 1.jpg);
+  }
+  to {
+      background-image: url(img/subaro\ 2.jpg);
+  }
+}
+.carrito-SW4{
+  width:200px;
+  height: 100px;
+  background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/sw4%201.jpg?raw=true);
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  animation-name: sw4;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-delay:15s;
+  border-radius: 5px;
+} 
+@keyframes sw4 {
+  from {
+    background-image:url(https://github.com/Nahir13/Ecommerce/blob/main/img/sw4%201.jpg?raw=true);
+  }
+  to {
+      background-image: url(img/sw4\ 2.jpg);
+  }
+}
